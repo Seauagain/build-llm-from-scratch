@@ -1,2 +1,2 @@
 # build-llm-from-scratch
-manual implementation a large language model  
+manual implementation of large language models  
